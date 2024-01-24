@@ -15,3 +15,11 @@ Based in south wales. i'm passionate about web development and creating accessib
 | JavaScript     | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) |
 | React.js       | ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white) |
 | Node.js        | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white) |
+
+## codewars
+
+[![Codewars Badge](https://www.codewars.com/users/jackl92/badges/large)](https://www.codewars.com/users/dhanushka)
+
+## stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackl92&theme=tokyonight" alt="mystreak"/>
