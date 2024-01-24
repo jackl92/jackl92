@@ -4,7 +4,7 @@ Based in south wales. i'm passionate about web development and creating accessib
 
 ## trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jackl92)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jackl92&theme=juicyfresh&no-bg=true")](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Tech Stack
 
@@ -23,3 +23,4 @@ Based in south wales. i'm passionate about web development and creating accessib
 ## stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackl92&theme=tokyonight" alt="mystreak"/>
+<img src="https://myreadme.vercel.app/api/embed/jackl92?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
