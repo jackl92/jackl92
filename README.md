@@ -22,5 +22,6 @@ Based in south wales. i'm passionate about web development and creating accessib
 
 ## stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jackl92&theme=tokyonight" alt="mystreak"/>
 <img src="https://myreadme.vercel.app/api/embed/jackl92?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jackl92&theme=highcontrast&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
