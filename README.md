@@ -18,7 +18,7 @@ Based in south wales. i'm passionate about web development and creating accessib
 
 ## codewars
 
-[![Codewars Badge](https://www.codewars.com/users/jackl92/badges/large)](https://www.codewars.com/users/dhanushka)
+[![Codewars Badge](https://www.codewars.com/users/jackl92/badges/large)](https://www.codewars.com/users/jackl92)
 
 ## stats
 
