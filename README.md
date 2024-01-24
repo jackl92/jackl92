@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Jack 👋
 
-<!--
-**jackl92/jackl92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in south wales. i'm passionate about web development and creating accessible web apps that people will enjoy. 
 
-Here are some ideas to get you started:
+## My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Language       | Badge                                                                                         |
+| -------------- | --------------------------------------------------------------------------------------------- |
+| HTML           | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) |
+| CSS            | ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)      |
+| JavaScript     | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) |
+| React.js       | ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white) |
+| Node.js        | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white) |
