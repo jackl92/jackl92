@@ -1,6 +1,10 @@
 # Hello, I'm Jack 👋
 
-Based in south wales. i'm passionate about web development and creating accessible web apps that people will enjoy. 
+Based in south wales. i'm passionate about web development and creating accessible web apps that people will enjoy.
+
+## trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jackl92)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Tech Stack
 
