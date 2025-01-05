@@ -20,10 +20,6 @@ Based in south wales. i'm passionate about web development and creating accessib
 
 [![Codewars Badge](https://www.codewars.com/users/jackl92/badges/large)](https://www.codewars.com/users/jackl92)
 
-## leetcode
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jackl92&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 ## stats
 
 <img src="https://myreadme.vercel.app/api/embed/jackl92?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
