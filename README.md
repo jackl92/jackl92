@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackl92&label=Profile%20views&color=0e75b6&style=flat" alt="jackl92" /> </p>
 
-- 🔭 I’m currently working on [uk road safety analysis](https://github.com/jackl92/UK_road_safety)
+- 🔭 I’m currently working on [EDA_sales_analysis](https://github.com/jackl92/EDA_sales_analysis)
 
 - 🌱 I’m currently learning **data analysis**
 
